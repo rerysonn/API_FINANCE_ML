@@ -1,0 +1,31 @@
+# Ignore o diretório de ambiente virtual
+venv/
+
+# Arquivos e diretórios de configuração do sistema operacional
+*.DS_Store
+Thumbs.db
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações específicas de IDEs/editores de texto
+.vscode/
+.idea/
+
+# Arquivos de compilação
+*.so
+*.o
+*.pyc
+*.pyo
+
+# Arquivos de dependências e pacotes desnecessários
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos relacionados ao deployment local
+.env
