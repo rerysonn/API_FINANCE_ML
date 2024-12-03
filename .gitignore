@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore o diretório de ambiente virtual
 venv/
 
@@ -29,3 +30,6 @@ pip-delete-this-directory.txt
 
 # Arquivos relacionados ao deployment local
 .env
+=======
+.venv/
+>>>>>>> f7b2f722391f775a7423e531d3fd85f3e23417ba
