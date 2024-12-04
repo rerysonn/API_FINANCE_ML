@@ -171,6 +171,7 @@ CMD ["gunicorn", "run:app"]
 ## Autor
 
 - Diogo Bortolozo
+- Reryson Farinha
 
 ---
 
